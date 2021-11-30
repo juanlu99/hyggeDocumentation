@@ -1,2 +1,2 @@
-# Proyecto-HAB---Grupo-A
-A tope con la cope chavales :P
+# Proyecto-HAB-Grupo-A
+Plataforma de gestión de espacios llamada Hygge.
