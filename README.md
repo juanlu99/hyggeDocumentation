@@ -1,2 +1,2 @@
 # Proyecto-HAB-Grupo-A
-Plataforma de gestión de espacios llamada Hygge.
+Documentación de la plataforma de gestión de espacios llamada Hygge.
